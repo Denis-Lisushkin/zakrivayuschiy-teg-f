@@ -50,6 +50,7 @@
   padding-block-end: 22px;
 }
 .header__logo-title {
+  display: block;
   font-size: clamp(3.063rem, 1.909rem + 4.923vw, 4.063rem);
   line-height: clamp(3.063rem, 1.909rem + 4.923vw, 4.063rem);
   padding-block-end: 20px;
